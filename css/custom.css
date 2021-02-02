@@ -1,0 +1,58 @@
+.landing-search {
+    background-color: #fff;
+    color: #fff;
+    border-radius: 30px;
+    height: 3.5rem;
+}
+
+.page-search {
+    background-color: #fff;
+    color: #fff;
+    border-radius: 30px;
+    height: 2.5rem;
+    border-radius: 0px 30px 30px 0px;
+}
+
+.searchpage-formitem {
+    display: inline-block;
+}
+
+.page-search::placeholder {
+    color: #fff;
+}
+
+.page-search:focus {
+    background-color: rgba(0,0,0,.4);
+    color: #fff;
+    border-radius: 0px 30px 30px 0px;
+    height: 2.5rem;
+}
+
+.card-authors {
+    font-size: 0.8rem;
+    color: grey;
+    margin-bottom: 0.75rem;
+}
+
+.card-title {
+    margin-bottom: 0rem;
+}
+
+.nav-brand {
+    height: 32px;
+    width: 32px;
+}
+
+.paper-pdf {
+    width: 100%;
+    min-height: 80vh;
+}
+
+.paper-viewer .progress {
+    width: 100%;
+    text-align: center;
+}
+
+.paper-viewer .progress-bar {
+    width: 1%;
+}
